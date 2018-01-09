@@ -19,6 +19,6 @@ it checks comments and grabs keywords. it then attempts to generate a comment.
 
 thats because i haven't supplied the brain, fingers & eyes modules.
 these are what makes the bot unique as it is capable of thinking with a simple command.
-these will be released shorlt.y
+these will be released shortly.
 
 alternatively, for $10 in bitcoin i am able to provide all of these to you right now.
